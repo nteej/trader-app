@@ -1,0 +1,10 @@
+{
+  "appId": "novia.appoint.com",
+  "appName": "appointments",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true
+    }
+  }
+}
